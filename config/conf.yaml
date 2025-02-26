@@ -1,0 +1,24 @@
+mongo:
+  account:
+  password:
+  address:
+  port:
+  database:
+mqtt:
+  account:
+  password:
+  address:
+  port:
+  id:
+redis:
+  password:
+  address:
+  port:
+  DB:
+  PoolSize:
+minio:
+  account:
+  password:
+  address :
+  port:
+  bucketName :
